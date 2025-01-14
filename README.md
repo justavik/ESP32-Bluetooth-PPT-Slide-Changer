@@ -20,6 +20,7 @@ This controller connects to your computer as a standard Bluetooth keyboard, send
 - GPIO 12 connected to bottom right pin of one button.
 - GPIO 13 connected to bottom right pin of other button.
 - 3V3 connected to both upper right pins of both buttons.
+![ESP32-Bluetooth-PPT-Slide-Changer](https://github.com/justavik/ESP32-Bluetooth-PPT-Slide-Changer/blob/main/ESP32_Bluetooth_PPT_Slide_Changer_Hardware_Config.jpg)
 ## Code
 - Found at esp32_bt_ppt_slide_changer.ino
 ## Upload Instructions
